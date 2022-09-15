@@ -1,16 +1,22 @@
-# overlapping_circle_avatars
+# overlapping_circleavatars_flutter
 
-A new Flutter project.
+Overlapping Profile Images as shown in popular Apps 
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Screenshot 2022-09-15 113326](https://user-images.githubusercontent.com/72114434/190379710-9be1e19e-5f88-4294-94a2-7370d63bb64a.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Technology Used
+ - Dart Language
+ - Flutter Framework
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Contact Information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Follow me on Instagram: [@invisionchip](https://www.instagram.com/invisionchip)
+- Find me on Twitter: [@invisionchip](https://twitter.com/invisionchip)
+- My YouTube Channel: [invisionchip](https://www.youtube.com/channel/UCafeVMVotqWH7jKOR5wzoYA)
+- Contact me through [WhatsApp](https://api.whatsapp.com/send?phone=+919437007938&text=&source=&data=&app_absent=)
+
+
+## Made with :heart: by Suresh Mishra
